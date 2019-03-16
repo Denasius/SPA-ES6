@@ -1,0 +1,24 @@
+{
+  "name": "js-native-app",
+  "version": "1.0.0",
+  "description": "js native application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denasius/SPA-ES6.git"
+  },
+  "author": "Denis Kostyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denasius/SPA-ES6/issues"
+  },
+  "homepage": "https://github.com/Denasius/SPA-ES6#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
