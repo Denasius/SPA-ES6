@@ -32,7 +32,5 @@ async function submitHandler(event){
     alert('Запись успешно создана')
 
     this.form.clear()
-  
-    console.log(formData, )
   }
 }
