@@ -27,6 +27,9 @@ textarea {
 .lds-ripple div:nth-child(2) {
   animation-delay: -0.5s;
 }
+.center{
+  text-align: center;
+}
 @keyframes lds-ripple {
   0% {
       top: 28px;
